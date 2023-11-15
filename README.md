@@ -1,7 +1,9 @@
 # CS240_TrafficLights
 CS240 Final Project - Software Systems - C++
 
-In this project, we created Section.h, Section.cpp, MSection.h, MSection.cpp, TrafficLight.h, 
+In this project, we work as a team to write a C++ implementation of a traffic intersection simulation.
+
+We created Section.h, Section.cpp, MSection.h, MSection.cpp, TrafficLight.h, 
 TrafficLight.cpp, Vehicle.h, Vehicle.cpp, Road.h, Road.cpp, Simulation.h and Simulation.cpp to 
 implement a traffic intersection simulation. The lane is composed of three classes: "Section", 
 "MSection", and "Road". "Section" is the base unit on the lane, and "MSection" deals with the 
